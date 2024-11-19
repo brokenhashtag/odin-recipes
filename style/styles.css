@@ -1,0 +1,12 @@
+* {
+    background-color: black;
+}
+
+h1 , h2 , h3 {
+    background: green;
+    color: red;
+}
+
+li , p {
+    color: blue;
+}
